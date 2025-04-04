@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Garth Baecker
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,12 +12,13 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/naturehero.png
-  alt: Hero Image for home page
+  src: /img/skylinehero.png
+  alt: Garth Baecker
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: Based in Quincy, Illinois, Garth Baecker began his career as a
+  sales and inventory control professional with Brinkmanship Oldsmobile Cadillac
+  in Pekin.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +33,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+Based in Quincy, Illinois, Garth Baecker began his career as a sales and inventory control professional with Brinkmanship Oldsmobile Cadillac in Pekin. His responsibilities in this role involved sales, ordering, and floor-planning for new automobile inventory. He subsequently spent nearly four decades as a sales representative and special agent at Country Financial and Insurance Company in Bloomington. During his time in this position, Garth Baecker earned multiple All Star and All American sales awards, including designation as a master agent. He also founded The Baecker Agency, which he led as president.
