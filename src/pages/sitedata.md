@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Garth Baecker
+jobTitle: Sales Professional
+location: Quincy, IL US
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/garth-baecker-quincy-il-us.jpg
+  alt: Experienced Illinois Sales Professional Garth Baecker
+siteUrl: https://www.garth-baecker.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/garth-baecker-20212a15/
     label: Visit
     show: true
   pinterest:
