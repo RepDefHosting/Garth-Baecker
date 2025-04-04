@@ -64,4 +64,4 @@ Based in Quincy, Illinois, Garth Baecker began his career as a sales and invento
 
 Garth Baecker studied English at Western Illinois University, earning a master’s degree. He spent three years as an English and journalism instructor at the Roosevelt Military Academy in Aledo. He achieved his chartered financial advisor designation at the Life Insurance Institute in Bloomington.
 
-Mr. Baecker’s community involvement includes multiple terms as board president of the United Church of Christ. He also served as the president of Western Association and the Illinois Conference Board.
+[Mr. Baecker’s community involvement includes multiple terms as board president of the United Church of Christ](https://www.ziddu.com/garth-baecker-and-the-united-church-of-christ/). He also served as the president of Western Association and the Illinois Conference Board.
